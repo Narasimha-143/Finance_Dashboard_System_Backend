@@ -3,7 +3,7 @@ This is a backend system built using Node.js, Express, and MongoDB that manages 
 
 It allows users to create, view, update, and delete financial transactions such as income and expenses. The system supports different user roles like Viewer, Analyst, and Admin, each with specific permissions.
 
-It also provides dashboard APIs for analytics such as total income, expenses, net balance, and category-wise summaries.
+It also provides dashboard APIs for analytics such as total income, expenses, net balance, and category-wise summaries.  
 
 ## Features
 
